@@ -1,0 +1,9 @@
+langchain
+langchain-community
+langchain-ollama
+langchain-core
+ollama
+fastapi
+uvicorn[standard]
+pydantic
+pymupdf
